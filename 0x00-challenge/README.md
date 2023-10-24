@@ -1,5 +1,5 @@
 # 0x00-challenge
-This challenge is based on the following:
+This challenge is based on fixing the following:
 | Tasks | Description | Solution |
 |-------|-------------|----------|
 | [0. FizzBuzz](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py) | A look at my implementation of FizzBuzz in Python | [0-fizzbuzz.py](0-fizzbuzz.py) |
