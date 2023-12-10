@@ -36,6 +36,6 @@ class Square():
 
 if __name__ == "__main__":
     sqr = Square(width=12, height=9)
-    print(s)
-    print(s.area_of_my_square())
-    print(s.permiter_of_my_square())
+    print(sqr)
+    print(sqr.area_of_my_square())
+    print(sqr.permiter_of_my_square())
